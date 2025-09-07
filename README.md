@@ -12,6 +12,8 @@ A sample Android app demonstrating -
 
 ## 📂 Project Structure
 
+```
+
 app/
 ├─ src/main/java/com/msd/cleanarchitecture/
 │ ├─ app/ # Application + DI modules
@@ -23,6 +25,8 @@ app/
 └─ src/androidTest/ # UI tests (ComposeTestRule, Espresso)
 
 ---
+
+```
 
 🚀 Run the App
 1. Open project in **Android Studio (Giraffe or newer)**.
