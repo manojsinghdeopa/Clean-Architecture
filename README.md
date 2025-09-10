@@ -71,7 +71,7 @@ Coverage: JaCoCo
 ## 📌 Notes
 The UI test included is a smoke test.
 For deterministic UI tests, create a debug DI module with fake repositories.
-Replace https://example.com/ with a real API or MockWebServer endpoint.
+Replace BaseUrl with a real API or MockWebServer endpoint.
 
 
 
