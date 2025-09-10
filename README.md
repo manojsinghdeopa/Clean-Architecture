@@ -1,4 +1,4 @@
-# 🐾 CleanArchitecture
+# 🐾 Clean Architecture
 
 A sample Android app demonstrating : 
 
@@ -27,9 +27,16 @@ app/
 
 ```
 
-## 🚀 Run the App
-1. Open project in **Android Studio (Giraffe or newer)**.
-2. Build and run on an emulator or device.
+## 🚀 Steps to Run
+
+1. Clone this repository:
+
+    ```bash
+   git clone https://github.com/manojsinghdeopa/Clean-Architecture.git
+
+2. Open the project in Android Studio.
+
+3. Build and run the app on an emulator or a real device.
 
 
 ## ✅ Testing
