@@ -1,4 +1,4 @@
-# 🐾 Clean Architecture
+# Clean Architecture 🐾
 
 A sample Android app demonstrating : 
 
